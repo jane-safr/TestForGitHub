@@ -1,0 +1,14 @@
+Установка
+Git-2.26.0-64-bit.exe
+TortoiseGit-2.9.0.0-64bit.msi
+
+1. Логинимся и создаем новый репозиторий в GitHub
+2. Встаем на папку и Git create repository here
+3. Git Sync
+Manage
+Url repository
+Add new/Save
+Show log
+Add files
+commit
+push
